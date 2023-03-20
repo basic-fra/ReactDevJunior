@@ -1,0 +1,83 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 18rem;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  text-align: center;
+  background-color: rgb(72, 199, 37);
+}
+
+.pozadina {
+  background-color: rgba(250, 235, 215, 0.662);
+  border-radius: 20px;
+  border: 2px solid black;
+  width: 700px;
+  height: 350px;
+}
+
+.prikazBroja p {
+  font-size: 2em;
+  margin: 5px;
+ }
+ .tipkaOkvir > button{
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 0px ;
+ }
+ .tipkaOkvir > button:hover{
+  background-color:rgb(72, 199, 37);
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 0px ;
+ }
+ 
+ .tipkaOkvir {
+  font-size: 15px;
+  font-weight: bold;
+  padding: 0px 5px;
+ }
+
+ .real > img {
+  width: 120px;
+  height: 130px;
+ } 
+ .barca > img {
+  width: 120px;
+  height: 130px;
+ } 
+ .clubs {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+ }
+ .left-div {
+  width: 50%;
+  float: left;
+}
+
+.right-div {
+  width: 50%;
+  float: right;
+}
+.rezultat {
+  display: flex;
+  margin-top: 15px;
+  font-size: 30px;
+}
+.display_buttons {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.names {
+  display: flex;
+  justify-content: space-around;
+}
+.margin-right {
+  margin-right: 60px;
+}
+.margin-left {
+  margin-left: 35px;
+}
+  
