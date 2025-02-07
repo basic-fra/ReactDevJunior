@@ -1,11 +1,10 @@
-# Nogometna utakmica
-Dodavanje broja golova pojedinom timu u nogometnoj utakmici. Projekt je nastao iz zadanog
-domaćeg rada s ReactDevJunior radionice.
+# Football Match
+Adding goal counts for each team in a football match. The project was created as part of an assigned homework from the ReactDevJunior workshop.
 
-## **Značajke**
-- Prikaz timova koji igraju
-- Dohvat i ispis trenutnog datuma
-- Botuni za dodavanje i oduzimanje golova
+## **Features**
+- Display of teams playing
+- Fetching and displaying the current date
+- Buttons for adding and subtracting goals
 
 ---
 ## **Screenshot**
